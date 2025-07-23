@@ -1,0 +1,41 @@
+[Breakfast]
+Tea = 20
+Coffee = 20
+Pav bhaji = 60
+Misal pav = 60
+Vada pav = 20
+Sandwich = 40
+Poha = 30
+Upma = 30
+Aloo paratha = 40
+Idli sambar = 60
+Medu vada = 60
+
+[Snacks]
+Pizza = 150
+Veg burger = 70
+Paneer roll = 30
+Cheese frankie = 60
+French fries = 100
+Soyabean chilli = 110
+Nachos = 120
+
+[Desserts]
+Brownie = 100
+Hot chocolate = 140
+Caramel custard = 70
+Nutella pancake = 60
+Ice cream scoops = 30
+Cupcake = 25
+Pastry = 70
+Gulab Jamun = 80
+
+[Beverages]
+Cappuccino = 130
+Cold drink = 30
+Oreo milkshake = 70
+Mango Smoothie = 100
+Lemonade = 30
+Cocktails = 150
+Buttermilk = 20
+Lassi = 30
